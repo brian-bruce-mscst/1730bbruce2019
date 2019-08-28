@@ -56,7 +56,7 @@
             this.label2.Location = new System.Drawing.Point(39, 96);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(119, 17);
-            this.label2.TabIndex = 1;
+            this.label2.TabIndex = 2;
             this.label2.Text = "Discount percent:";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
@@ -66,7 +66,7 @@
             this.label3.Location = new System.Drawing.Point(39, 124);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(118, 17);
-            this.label3.TabIndex = 2;
+            this.label3.TabIndex = 6;
             this.label3.Text = "Discount amount:";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
@@ -76,7 +76,7 @@
             this.label4.Location = new System.Drawing.Point(39, 152);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(44, 17);
-            this.label4.TabIndex = 3;
+            this.label4.TabIndex = 8;
             this.label4.Text = "Total:";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
@@ -91,10 +91,9 @@
             // 
             this.txtDiscountPercent.Location = new System.Drawing.Point(185, 93);
             this.txtDiscountPercent.Name = "txtDiscountPercent";
-            this.txtDiscountPercent.ReadOnly = true;
             this.txtDiscountPercent.Size = new System.Drawing.Size(185, 22);
-            this.txtDiscountPercent.TabIndex = 5;
-            this.txtDiscountPercent.TabStop = false;
+            this.txtDiscountPercent.TabIndex = 3;
+            this.txtDiscountPercent.Text = "5";
             // 
             // txtDiscountAmount
             // 
@@ -102,7 +101,7 @@
             this.txtDiscountAmount.Name = "txtDiscountAmount";
             this.txtDiscountAmount.ReadOnly = true;
             this.txtDiscountAmount.Size = new System.Drawing.Size(185, 22);
-            this.txtDiscountAmount.TabIndex = 6;
+            this.txtDiscountAmount.TabIndex = 7;
             this.txtDiscountAmount.TabStop = false;
             // 
             // txtTotal
@@ -111,7 +110,7 @@
             this.txtTotal.Name = "txtTotal";
             this.txtTotal.ReadOnly = true;
             this.txtTotal.Size = new System.Drawing.Size(185, 22);
-            this.txtTotal.TabIndex = 7;
+            this.txtTotal.TabIndex = 9;
             this.txtTotal.TabStop = false;
             // 
             // btnCalculate
@@ -119,7 +118,7 @@
             this.btnCalculate.Location = new System.Drawing.Point(89, 197);
             this.btnCalculate.Name = "btnCalculate";
             this.btnCalculate.Size = new System.Drawing.Size(127, 34);
-            this.btnCalculate.TabIndex = 2;
+            this.btnCalculate.TabIndex = 4;
             this.btnCalculate.Text = "&Calculate";
             this.btnCalculate.UseVisualStyleBackColor = true;
             this.btnCalculate.Click += new System.EventHandler(this.BtnCalculate_Click);
@@ -130,7 +129,7 @@
             this.btnExit.Location = new System.Drawing.Point(243, 197);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(127, 34);
-            this.btnExit.TabIndex = 3;
+            this.btnExit.TabIndex = 5;
             this.btnExit.Text = "E&xit";
             this.btnExit.UseVisualStyleBackColor = true;
             this.btnExit.Click += new System.EventHandler(this.BtnExit_Click);
