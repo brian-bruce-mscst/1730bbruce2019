@@ -233,6 +233,7 @@
             this.Controls.Add(this.label1);
             this.Name = "frmFoodTruck";
             this.Text = "bbruce1c: Food Truck";
+            this.Load += new System.EventHandler(this.FrmFoodTruck_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

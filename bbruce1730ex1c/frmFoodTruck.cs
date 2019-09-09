@@ -56,5 +56,10 @@ namespace bbruce1730ex1c
         {
             this.Close();
         }
+
+        private void FrmFoodTruck_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
