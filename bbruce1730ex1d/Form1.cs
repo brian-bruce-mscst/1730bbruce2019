@@ -71,5 +71,10 @@ namespace bbruce1730ex1d
                         + Convert.ToDecimal(txtUSDUganda.Text)).ToString("0.00");
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
