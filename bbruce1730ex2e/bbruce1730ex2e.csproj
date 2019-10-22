@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8767659F-300D-4ED2-84AC-BA25EBFE7B38}</ProjectGuid>
+    <ProjectGuid>{AA0A21F6-A340-454D-99B3-8D208A63FA36}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>bbruce1730ex2d</RootNamespace>
-    <AssemblyName>bbruce1730ex2d</AssemblyName>
+    <RootNamespace>bbruce1730ex2e</RootNamespace>
+    <AssemblyName>bbruce1730ex2e</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,16 +46,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="bbruce2dRelationalOperators.cs">
+    <Compile Include="bbruce2eLogicalOperators.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="bbruce2dRelationalOperators.Designer.cs">
-      <DependentUpon>bbruce2dRelationalOperators.cs</DependentUpon>
+    <Compile Include="bbruce2eLogicalOperators.Designer.cs">
+      <DependentUpon>bbruce2eLogicalOperators.cs</DependentUpon>
     </Compile>
+    <Compile Include="LogicalOperations.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="bbruce2dRelationalOperators.resx">
-      <DependentUpon>bbruce2dRelationalOperators.cs</DependentUpon>
+    <EmbeddedResource Include="bbruce2eLogicalOperators.resx">
+      <DependentUpon>bbruce2eLogicalOperators.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

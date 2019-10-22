@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace bbruce1730ex2d
+namespace bbruce1730ex2e
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace bbruce1730ex2d
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new bbruce2dRelationalOperators());
+            Application.Run(new bbruce2eLogicalOperators());
         }
     }
 }

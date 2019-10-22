@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace bbruce1730ex2d
 {
-    public partial class Form1 : Form
+    public partial class bbruce2dRelationalOperators : Form
     {
-        public Form1()
+        public bbruce2dRelationalOperators()
         {
             InitializeComponent();
         }

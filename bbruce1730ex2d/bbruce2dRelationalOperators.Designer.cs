@@ -1,6 +1,6 @@
 ﻿namespace bbruce1730ex2d
 {
-    partial class Form1
+    partial class bbruce2dRelationalOperators
     {
         /// <summary>
         /// Required designer variable.
