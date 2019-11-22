@@ -43,6 +43,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bbruce1730ex2hUnitTests.Tes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMethodsSamp", "StringMethodsSamp\StringMethodsSamp.csproj", "{AEB1977D-F705-4A3F-BBD2-7904D118BBA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bbruce1730ex3a", "bbruce1730ex3a\bbruce1730ex3a.csproj", "{0B650AF2-097F-405F-AC25-9F097EA20EA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bbruce1730ex3aUnitTests", "bbruce1730ex3aUnitTests\bbruce1730ex3aUnitTests.csproj", "{F75F5198-0145-4A9F-874A-D43A492DF62E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +133,14 @@ Global
 		{AEB1977D-F705-4A3F-BBD2-7904D118BBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEB1977D-F705-4A3F-BBD2-7904D118BBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEB1977D-F705-4A3F-BBD2-7904D118BBA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B650AF2-097F-405F-AC25-9F097EA20EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B650AF2-097F-405F-AC25-9F097EA20EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B650AF2-097F-405F-AC25-9F097EA20EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B650AF2-097F-405F-AC25-9F097EA20EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F75F5198-0145-4A9F-874A-D43A492DF62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75F5198-0145-4A9F-874A-D43A492DF62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75F5198-0145-4A9F-874A-D43A492DF62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75F5198-0145-4A9F-874A-D43A492DF62E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
