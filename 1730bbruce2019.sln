@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bbruce1730ex3a", "bbruce173
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bbruce1730ex3aUnitTests", "bbruce1730ex3aUnitTests\bbruce1730ex3aUnitTests.csproj", "{F75F5198-0145-4A9F-874A-D43A492DF62E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bbruce1730ex3b", "bbruce1730ex3b\bbruce1730ex3b.csproj", "{261FB25E-D57F-40DD-9427-FCB3AB8CABE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bbruce1730ex3bUnitTests", "bbruce1730ex3bUnitTests\bbruce1730ex3bUnitTests.csproj", "{2D63AA81-51A0-40F7-AA53-2507B2967F15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{F75F5198-0145-4A9F-874A-D43A492DF62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F75F5198-0145-4A9F-874A-D43A492DF62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F75F5198-0145-4A9F-874A-D43A492DF62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{261FB25E-D57F-40DD-9427-FCB3AB8CABE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261FB25E-D57F-40DD-9427-FCB3AB8CABE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261FB25E-D57F-40DD-9427-FCB3AB8CABE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{261FB25E-D57F-40DD-9427-FCB3AB8CABE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D63AA81-51A0-40F7-AA53-2507B2967F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D63AA81-51A0-40F7-AA53-2507B2967F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D63AA81-51A0-40F7-AA53-2507B2967F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D63AA81-51A0-40F7-AA53-2507B2967F15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
