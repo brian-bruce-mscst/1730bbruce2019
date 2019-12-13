@@ -55,6 +55,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bbruce1730ex3c", "bbruce173
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bbruce1730ex3cUnitTests", "bbruce1730ex3cUnitTests\bbruce1730ex3cUnitTests.csproj", "{2CD0BDAC-D0F7-4299-9AC4-589D76346B8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bbruce1730ex3d", "bbruce1730ex3d\bbruce1730ex3d.csproj", "{970290F7-9802-4C24-A6BA-264FB900C848}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bbruce1730ex3dUnitTests", "bbruce1730ex3dUnitTests\bbruce1730ex3dUnitTests.csproj", "{2A7062B3-0231-4717-A00D-F3F32765858D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +169,14 @@ Global
 		{2CD0BDAC-D0F7-4299-9AC4-589D76346B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CD0BDAC-D0F7-4299-9AC4-589D76346B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CD0BDAC-D0F7-4299-9AC4-589D76346B8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{970290F7-9802-4C24-A6BA-264FB900C848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970290F7-9802-4C24-A6BA-264FB900C848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970290F7-9802-4C24-A6BA-264FB900C848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970290F7-9802-4C24-A6BA-264FB900C848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A7062B3-0231-4717-A00D-F3F32765858D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7062B3-0231-4717-A00D-F3F32765858D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7062B3-0231-4717-A00D-F3F32765858D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A7062B3-0231-4717-A00D-F3F32765858D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
